@@ -1,2 +1,2 @@
 # AuthXamarinAndroid
-Sign-In workflow for Google OAuth 2.0 in Xamarin.Android
+Sign in workflow using Google OAuth 2.0 for Xamarin.Android apps
